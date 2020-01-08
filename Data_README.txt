@@ -1,3 +1,4 @@
+Author: Emma Carli
 "Rough period" corresponds to first ACF peak. If the period and period error are 0, this means only one ACF peak has been found and the median time between peaks could not be computed.
 Some robust period errors were smaller than the precision I chose, and therefore are 0. Sorry about that... I could re-run to fix. 
 The errors of the GP came out huge in a lot of cases but I was out of time and did not investigate.
